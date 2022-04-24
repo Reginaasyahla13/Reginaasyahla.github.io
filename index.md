@@ -2,25 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Helloo!
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+~Welcome to My Page~
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am a 6th semester student majoring in statistics at Brawijaya University
 
-# Header 1
+# PROJECT 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Coming soon
 
-## Header 2
+## PROJECT 2
 
-> This is a blockquote following a header.
+> Coming soon
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Coming soon
 
-### Header 3
+### PROJECT 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,19 +37,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### PROJECT 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### PROJECT 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### PROJECT 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
